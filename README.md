@@ -4,7 +4,7 @@
 
 <p align="center">
   <a>Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Tecnologias</a>
 </p>
 
 <h4>:open_file_folder: Sobre o Projeto </h4>
