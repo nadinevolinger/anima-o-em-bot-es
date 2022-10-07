@@ -1,5 +1,5 @@
 <h3 align="center"> 
-	Animação em CSS usando botões
+	Animação de botões usando CSS
 </h3>
 
 <p align="center">
