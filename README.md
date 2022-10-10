@@ -9,7 +9,7 @@
 
 <h4>:open_file_folder: Sobre o Projeto</h4>
 
-<p> Exercício que fiz para relembrar conceitos de animação em CSS usando botões. Quer ver as animações sem baixar o arquivo e arrastar pra web? Você consegue olhar através da seguinte url: https://buttonsanimation.netlify.app
+<p> Exercício que fiz para relembrar conceitos de animação em CSS usando botões. <br> Quer ver as animações sem baixar o arquivo e arrastar pra web? Você consegue olhar através da seguinte url: https://buttonsanimation.netlify.app
 </p>
   
   
